@@ -31,6 +31,10 @@ layout: default
       </span>
       •
       {% include read_time.html %}
+      
+      {% if post.link %}
+      <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title | escape }}"><i class="fa fa-external-link"></i></a>
+      {% endif %}
     </span>
 
   </header>
