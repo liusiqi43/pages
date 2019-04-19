@@ -7,7 +7,9 @@
             <div class="archive-year">
               <strong>{{ c.date }}</strong>
             <div>{{ c.job }} @ <a href="{{ c.link }}">{{ c.name }}</a></div> 
+            {% if c.descr %}
             <div>{{ c.descr }}</div>
+            {% endif %}
             </div>
           </div>
     {% endfor %}
