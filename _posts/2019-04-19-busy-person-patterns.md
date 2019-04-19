@@ -6,7 +6,7 @@ link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Patte
 comments: true
 ---
 
-[book link](https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf)
+> I recently stumbled upon this [rare gem](https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf) and found it incredibly useful for people who are early in their career (such as myself!). Below are section by section TL;DR from the authors. Hope you find it useful as well!
 
 #### Just Start
 You have a task that cannot wait until you have all the information about it to begin. It
