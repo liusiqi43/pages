@@ -1,8 +1,8 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
 {% for p in site.data.index.publications %}
-    <div class="row">
-      <h4 style="margin: 0">{{ p.name }}</h4>
+    <div class="section">
+      <h5 style="margin: 0">{{ p.name }}</h5>
       <p style="margin: 0">{{ p.authors }}</p>
 
       {% if p.venue %}
