@@ -2,9 +2,9 @@
 layout: post
 title: Busy Person Patterns
 categories: [gems]
+link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
 comments: true
 ---
-# [Busy Person Patterns](https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf)
 
 #### Just Start
 You have a task that cannot wait until you have all the information about it to begin. It
