@@ -8,14 +8,22 @@
 
                 {% if p.venue %}
                 <a href="{{ p.venue_link }} ">{{ p.venue }}</a>
-                <span> | </span>
                 {% endif %}
                 {% if p.paper %}
-                <a href="{{ p.paper }} ">arxiv</a>
                 <span> | </span>
+                <a href="{{ p.paper }} ">arxiv</a>
                 {% endif %}
                 {% if p.oral %}
+                <span> | </span>
                 <a href="{{ p.oral }} ">oral</a>
+                {% endif %}
+                {% if p.website %}
+                <span> | </span>
+                <a href="{{ p.website }} ">website</a>
+                {% endif %}
+                {% if p.demo %}
+                <span> | </span>
+                <a href="{{ p.demo }} ">demo</a>
                 {% endif %}
 
             </div>
