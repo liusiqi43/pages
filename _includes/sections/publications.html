@@ -8,10 +8,11 @@
                 <p>{{ p.venue }}</p>
 
                 {% if p.paper %}
-                <a href="{{ p.paper }} ">arxiv | </a>
+                <a href="{{ p.paper }} ">arxiv</a>
                 {% endif %}
+                <span> | </span>
                 {% if p.oral %}
-                <a href="{{ p.oral }} ">oral | </a>
+                <a href="{{ p.oral }} ">oral</a>
                 {% endif %}
 
             </div>
