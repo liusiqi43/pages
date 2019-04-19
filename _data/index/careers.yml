@@ -5,22 +5,26 @@
   date: Mar 2017 - Present </i>
   job: Research Engineer
 
-- name: Google Research (MTV) - Machine Intelligence
+- name: Google Research
   link: https://ai.google/
   date: Jul 2016 - Nov 2016
   job: Research Intern
+  descr: Machine Intelligence (Mountain View)
 
-- name: Google (NYC) - Adwords
+- name: Google
   link: https://www.google.com/
   date: Jun 2015 - Sep 2015
   job: Software Engineering Intern
+  descr: Adwords Optimization (New York)
 
-- name: Collabora Ltd (part-time)
+- name: Collabora Ltd 
   link: https://www.collabora.com/
   date: Feb 2015 - Jun 2015
-  job: Consultant Software Engineer - LibreOffice for Android
+  job: Consultant Engineer (part-time)
+  descr: LibreOffice for Android
 
-- name: Google (ZRH) - Knowledge Graph
+- name: Google
   link: https://www.google.com/
   date: Jun 2014 - Sep 2014
   job: Software Engineering Intern
+  descr: Knowledge Graph (Zurich)
