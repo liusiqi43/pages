@@ -1,16 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: DeepMind
+  link: https://deepmind.com/
+  date: Mar 2017 - Present </i>
+  job: Research Engineer
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Google Research (MTV) - Machine Intelligence
+  link: https://ai.google/
+  date: Jul 2016 - Nov 2016
+  job: Research Intern
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Google (NYC) - Adwords
+  link: https://www.google.com/
+  date: Jun 2015 - Sep 2015
+  job: Software Engineering Intern
+
+- name: Collabora Ltd (part-time)
+  link: https://www.collabora.com/
+  date: Feb 2015 - Jun 2015
+  job: Consultant Software Engineer - LibreOffice for Android
+
+- name: Google (ZRH) - Knowledge Graph
+  link: https://www.google.com/
+  date: Jun 2014 - Sep 2014
+  job: Software Engineering Intern
