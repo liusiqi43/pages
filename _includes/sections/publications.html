@@ -1,31 +1,34 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
-{% for p in site.data.index.publications %}
-    <div class="row" style="margin: 1">
-            <div class="col">
-                <h4 style="margin: 0">{{ p.name }}</h4>
-                <p style="margin: 0">{{ p.authors }}</p>
-
-                {% if p.venue %}
-                <a href="{{ p.venue_link }} ">{{ p.venue }}</a>
-                {% endif %}
-                {% if p.paper %}
-                <span> | </span>
-                <a href="{{ p.paper }} ">paper</a>
-                {% endif %}
-                {% if p.oral %}
-                <span> | </span>
-                <a href="{{ p.oral }} ">oral</a>
-                {% endif %}
-                {% if p.website %}
-                <span> | </span>
-                <a href="{{ p.website }} ">website</a>
-                {% endif %}
-                {% if p.demo %}
-                <span> | </span>
-                <a href="{{ p.demo }} ">demo</a>
-                {% endif %}
-
-            </div>
-    </div>
-{% endfor %}
+<div class="archive">
+  <div class="timeline" id="timeline">
+  {% for p in site.data.index.publications %}
+      <div class="archive-title bio">
+              <div class="archive-year">
+                  <h4 style="margin: 0">{{ p.name }}</h4>
+                  <p style="margin: 0">{{ p.authors }}</p>
+  
+                  {% if p.venue %}
+                  <a href="{{ p.venue_link }} ">{{ p.venue }}</a>
+                  {% endif %}
+                  {% if p.paper %}
+                  <span> | </span>
+                  <a href="{{ p.paper }} ">paper</a>
+                  {% endif %}
+                  {% if p.oral %}
+                  <span> | </span>
+                  <a href="{{ p.oral }} ">oral</a>
+                  {% endif %}
+                  {% if p.website %}
+                  <span> | </span>
+                  <a href="{{ p.website }} ">website</a>
+                  {% endif %}
+                  {% if p.demo %}
+                  <span> | </span>
+                  <a href="{{ p.demo }} ">demo</a>
+                  {% endif %}
+              </div>
+      </div>
+  {% endfor %}
+  </div>
+</div>
