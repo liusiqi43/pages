@@ -5,12 +5,15 @@
             <div class="col">
                 <h4 style="margin: 0">{{ p.name }}</h4>
                 <p style="margin: 0">{{ p.authors }}</p>
-                <p style="margin: 0">{{ p.venue }}</p>
 
+                {% if p.venue %}
+                <a href="{{ p.venue_link }} ">{{ p.venue }}</a>
+                <span> | </span>
+                {% endif %}
                 {% if p.paper %}
                 <a href="{{ p.paper }} ">arxiv</a>
-                {% endif %}
                 <span> | </span>
+                {% endif %}
                 {% if p.oral %}
                 <a href="{{ p.oral }} ">oral</a>
                 {% endif %}
