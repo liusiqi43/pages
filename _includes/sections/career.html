@@ -3,10 +3,13 @@
 <div class="archive">
   <div class="timeline" id="timeline">
     {% for career in site.data.index.careers %}
-          <div class="archive-title">
-            <div class="archive-year"><strong>{{ career.date }}</strong></div>
+          <div class="archive-title bio">
+            <div class="archive-year">
+              <strong>{{ career.date }}</strong>
+            </div>
             <div>{{ career.job }} @ <a href="{{ career.link }}">{{ career.name
-                }}</a></div>
+                }}</a>
+            </div>
             <div>{{ career.descr }}</div>
           </div>
     {% endfor %}
