@@ -1,0 +1,5 @@
+- name: Improved Image Captioning via Policy Gradient Optimization of SPIDER
+  authors: <strong>Siqi Liu</strong>, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, Kevin Murphy
+  descr: ICCV 2017 - Venice
+  paper: https://arxiv.org/abs/1612.00370 
+  oral: https://www.youtube.com/watch?v=PCGuC4M038E 

@@ -1,0 +1,19 @@
+<h1><span data-i18n="skills.my_skills">Publications</span></h1>
+
+{% for p in site.data.index.publications %}
+    <div class="row">
+            <div class="col">
+                <h2 style="margin: 0">{{ p.name }}</h2>
+                <p>{{ p.authors }}</p>
+                <p style="margin: 0">{{ p.venue }}</p>
+
+                {% if p.paper %}
+                <a href="{{ p.paper }} ">arxiv</a>
+                {% endif %}
+                {% if p.oral %}
+                <a href="{{ p.oral }} ">oral</a>
+                {% endif %}
+
+            </div>
+    </div>
+{% endfor %}
