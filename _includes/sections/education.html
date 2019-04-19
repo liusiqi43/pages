@@ -3,11 +3,12 @@
 
 <div class="archive">
   <div class="timeline" id="timeline">
-    {% for entry in site.data.index.education %}
+    {% for e in site.data.index.education %}
           <div class="archive-title bio">
             <div class="archive-year">
-              <strong>{{ entry.date }}</strong> <a href="{{ entry.link }}">{{ entry.name }}</a>
-            <div>{{ entry.descr }}</div>
+              <strong>{{ e.date }}</strong>
+              <a href="{{ e.link }}">{{ e.name }}</a>
+            <div>{{ e.descr }}</div>
             </div>
           </div>
     {% endfor %}
