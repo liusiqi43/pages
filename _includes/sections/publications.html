@@ -3,15 +3,15 @@
 {% for p in site.data.index.publications %}
     <div class="row">
             <div class="col">
-                <h2 style="margin: 0">{{ p.name }}</h2>
+                <h4 style="margin: 0">{{ p.name }}</h4>
                 <p>{{ p.authors }}</p>
-                <p style="margin: 0">{{ p.venue }}</p>
+                <p>{{ p.venue }}</p>
 
                 {% if p.paper %}
-                <a href="{{ p.paper }} ">arxiv</a>
+                <a href="{{ p.paper }} ">arxiv | </a>
                 {% endif %}
                 {% if p.oral %}
-                <a href="{{ p.oral }} ">oral</a>
+                <a href="{{ p.oral }} ">oral | </a>
                 {% endif %}
 
             </div>
