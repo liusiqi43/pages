@@ -6,6 +6,8 @@ link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Patte
 comments: true
 ---
 
+[book link](https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf)
+
 #### Just Start
 You have a task that cannot wait until you have all the information about it to begin. It
 may be time sensitive, you may have a deadline, or part of the task may be to identify its
