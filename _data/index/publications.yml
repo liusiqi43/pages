@@ -12,7 +12,7 @@
   paper: https://arxiv.org/abs/1811.09656
   demo: https://www.youtube.com/watch?v=7GISvfbykLE
 
-- name: The Body is not a Given: Joint Agent Policy Learning and Morphology Evolution
+- name: "The Body is not a Given: Joint Agent Policy Learning and Morphology Evolution"
   authors: Dylan Banarse, Yoram Bachrach, <strong>Siqi Liu</strong>, Chrisantha Fernando, Nicolas Heess, Pushmeet Kohli, Guy Lever, Thore Graepel
   venue: AAMAS 2019 - Montreal
   venue_link: http://aamas2019.encs.concordia.ca/index.html
