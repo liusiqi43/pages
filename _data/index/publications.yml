@@ -21,6 +21,7 @@
   authors: Diana Borsa, Nicolas Heess, Bilal Piot, <strong>Siqi Liu</strong>, Leonard Hasenclever, Remi Munos, Olivier Pietquin
   venue: AAMAS 2019
   venue_link: http://aamas2019.encs.concordia.ca/index.html
+  paper: https://ai.google/research/pubs/pub48012/
 
 - name: "Improved Image Captioning via Policy Gradient Optimization of SPIDER"
   authors: <strong>Siqi Liu</strong>, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, Kevin Murphy
