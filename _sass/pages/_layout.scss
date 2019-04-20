@@ -1,7 +1,7 @@
 /* LAYOUT CSS */
 .cover {
   background-color: $background-color;
-  position: fixed;
+  position: initial;
   text-align: center;
   width: 100%;
   min-height: 400px;
@@ -13,7 +13,7 @@
   }
   @include media-query($medium-screen) {
     height: 100vh;
-    position: absolute;
+    position: initial;
     width: 100%;
   }
 }
