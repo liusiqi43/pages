@@ -13,7 +13,6 @@
   }
   @include media-query($medium-screen) {
     height: 100vh;
-    position: initial;
     width: 100%;
   }
 }
