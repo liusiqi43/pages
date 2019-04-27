@@ -47,6 +47,7 @@ owner:
     verify:
     ad-client:
     ad-slot:
+    scholar: https://scholar.google.com/citations?user=7U_OA0oAAAAJ&hl=en
   bing-verify:
   github: liusiqi43
   gitlab: #username
