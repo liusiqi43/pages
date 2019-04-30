@@ -5,7 +5,7 @@
 #
 title: Si-Qi LIU
 email: me@siqi.fr
-description: Si-Qi Liu.
+description: Updates from Si-Qi Liu.
 url: http://siqi.fr
 keywords: ["blog", "website", "siqi", "siqi liu", "si-qi liu"]
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Si-Qi LIU 
+  name: Si-Qi LIU 刘思奇
   avatar: profile.jpg
   job: "Research Engineer @ DeepMind"
   bio: "Previously CetraleSupélec, University of Oxford.\nOpinions my own."
