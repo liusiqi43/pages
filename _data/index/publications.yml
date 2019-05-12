@@ -4,6 +4,7 @@
   venue_link: https://iclr.cc/Conferences/2019
   paper: https://arxiv.org/abs/1902.07151
   website: https://sites.google.com/view/emergent-coordination/home
+  code: https://git.io/dm_soccer
 
 - name: "Hierarchical Visuomotor Control of Humanoids"
   authors: Josh Merel, Arun Ahuja, Vu Pham, Saran Tunyasuvunakool, <strong>Siqi Liu</strong>, Dhruva Tirumala, Nicolas Heess, Greg Wayne
