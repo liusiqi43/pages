@@ -17,12 +17,13 @@
   authors: Dylan Banarse, Yoram Bachrach, <strong>Siqi Liu</strong>, Chrisantha Fernando, Nicolas Heess, Pushmeet Kohli, Guy Lever, Thore Graepel
   venue: AAMAS 2019
   venue_link: http://aamas2019.encs.concordia.ca/index.html
+  paper: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1134.pdf
 
 - name: "Observational Learning by Reinforcement Learning"
   authors: Diana Borsa, Nicolas Heess, Bilal Piot, <strong>Siqi Liu</strong>, Leonard Hasenclever, Remi Munos, Olivier Pietquin
   venue: AAMAS 2019
   venue_link: http://aamas2019.encs.concordia.ca/index.html
-  paper: https://ai.google/research/pubs/pub48012/
+  paper: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1117.pdf
 
 - name: "Improved Image Captioning via Policy Gradient Optimization of SPIDER"
   authors: <strong>Siqi Liu</strong>, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, Kevin Murphy
