@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busy Person Patterns
-categories: [posts, books]
+categories: [books]
 link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
 comments: true
 ---
