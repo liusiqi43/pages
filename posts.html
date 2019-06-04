@@ -6,7 +6,7 @@ permalink: /posts/
 
 <div class="archive">
   <div class="timeline" id="timeline">
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | where:'posts', post.category %}
     {% assign posts_by_year = posts | group_by_exp:"post", "post.date | date: '%Y' " %}
     {% for group in posts_by_year %}
       <div class="archive-title">
