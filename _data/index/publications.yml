@@ -25,6 +25,13 @@
   venue_link: http://aamas2019.encs.concordia.ca/index.html
   paper: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1117.pdf
 
+
+- name: "Transferring Task Goals via Hierarchical Reinforcement Learning"
+  authors: Saining Xie, Alexandre Galashov, <strong>Siqi Liu</strong>, Shaobo Hou, Razvan Pascanu, Nicolas Heess, Yee Whye Teh
+  venue: ICLR 2018
+  venue_link: https://iclr.cc/Conferences/2018
+  paper: https://openreview.net/pdf?id=S1Y6TtJvG
+
 - name: "Improved Image Captioning via Policy Gradient Optimization of SPIDER"
   authors: <strong>Siqi Liu</strong>, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, Kevin Murphy
   venue: ICCV 2017
