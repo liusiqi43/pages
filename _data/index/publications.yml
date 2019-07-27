@@ -13,6 +13,12 @@
   paper: https://arxiv.org/abs/1811.09656
   demo: https://www.youtube.com/watch?v=7GISvfbykLE
 
+- name: "Reinforcement Learning Agents acquire Flocking and Symbiotic Behaviour in Simulated Ecosystems"
+  authors: Peter Sunehag, Guy Lever, <strong>Siqi Liu</strong>, Josh Merel, Nicolas Heess, Joel Z Leibo, Edward Hughes, Tom Eccles, Thore Graepel
+  venue: ALIFE 2019
+  venue_link: https://2019.alife.org/
+  paper: https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00148
+
 - name: "The Body is not a Given: Joint Agent Policy Learning and Morphology Evolution"
   authors: Dylan Banarse, Yoram Bachrach, <strong>Siqi Liu</strong>, Chrisantha Fernando, Nicolas Heess, Pushmeet Kohli, Guy Lever, Thore Graepel
   venue: AAMAS 2019
