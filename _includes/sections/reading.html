@@ -7,6 +7,6 @@
             {% if p.link %} <span> | </span> <a href="{{ p.link }} ">link</a> {% endif %}
       </p>
       <p style="margin: 0">{{ p.authors }}</p>
-      {% if p.description %} <p style="margin: 0">{{ p.description }}</p> {% endif %}
+      {% if p.description %} <p style="margin: 0"><i>{{ p.description }}</i></p> {% endif %}
     </div>
 {% endfor %}
