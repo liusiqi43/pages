@@ -1,13 +1,13 @@
 - name: "Busy Person Patterns"
   type: short
   category: life
+  authors: James F. Kile, Donald J. Little, Samir Shah
   link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
   description: "Patterns that help you make the most out of your time."
 
 - name: "Laws of Tech: Commoditize Your Complement"
   type: short
   category: business
-  authors: James F. Kile, Donald J. Little, Samir Shah
   link: https://www.gwern.net/Complement
   description: "Interesting take: commoditizing your complement leads to lasting monopoly in tech."
 
