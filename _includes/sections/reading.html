@@ -2,11 +2,10 @@
 
 {% for p in site.data.index.reading %}
     <div class="section no-pad-top">
-      <p style="margin: 0"><strong>{{ p.name }}</strong></p>
+      <p style="margin: 0">
+          <strong>{{ p.name }}</strong>
+            {% if p.link %} <span> | </span> <a href="{{ p.link }} ">link</a> {% endif %}
+      </p>
       <p style="margin: 0">{{ p.authors }}</p>
-      {% if p.link %}
-      <span> | </span>
-      <a href="{{ p.link }} ">link</a>
-      {% endif %}
     </div>
 {% endfor %}
