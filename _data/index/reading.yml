@@ -1,6 +1,8 @@
 - name: "Busy Person Patterns"
+  type: short
   link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
 
 - name: "Laws of Tech: Commoditize Your Complement"
+  type: short
   authors: James F. Kile, Donald J. Little, Samir Shah
   link: https://www.gwern.net/Complement
