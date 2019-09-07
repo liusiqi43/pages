@@ -1,8 +1,19 @@
 - name: "Busy Person Patterns"
   type: short
+  category: life
   link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
+  description: "Patterns that help you make the most out of your time."
 
 - name: "Laws of Tech: Commoditize Your Complement"
   type: short
+  category: business
   authors: James F. Kile, Donald J. Little, Samir Shah
   link: https://www.gwern.net/Complement
+  description: "Interesting take: commoditizing your complement leads to lasting monopoly in tech."
+
+- name: "Baby-Sitting the Economy"
+  type: short
+  category: economy
+  authors: Paul Krugman
+  link: http://www.pkarchive.org/theory/baby.html
+  description: A simple analogy for economic cycles for non-economist (such as myself!).
