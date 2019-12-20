@@ -1,3 +1,15 @@
+- name: "V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control"
+  authors: H Francis Song, Abbas Abdolmaleki, Jost Tobias Springenberg, Aidan Clark, Hubert Soyer, Jack W Rae, Seb Noury, Arun Ahuja, <strong>Siqi Liu</strong>, Dhruva Tirumala, Nicolas Heess, Dan Belov, Martin Riedmiller, Matthew M Botvinick
+  venue: ICLR 2020
+  venue_link: https://iclr.cc/Conferences/2020
+  paper: https://arxiv.org/abs/1909.12238
+
+- name: "A Generalized Training Approach for Multiagent Learning"
+  authors: Paul Muller, Shayegan Omidshafiei, Mark Rowland, Karl Tuyls, Julien Perolat, <strong>Siqi Liu</strong>, Daniel Hennes, Luke Marris, Marc Lanctot, Edward Hughes, Zhe Wang, Guy Lever, Nicolas Heess, Thore Graepel, Remi Munos
+  venue: ICLR 2020
+  venue_link: https://iclr.cc/Conferences/2020
+  paper: https://arxiv.org/abs/1909.12823
+
 - name: "Emergent Coordination though Competition"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Josh Merel, Saran Tunyasuvunakool, Nicolas Heess, Thore Graepel
   venue: ICLR 2019
