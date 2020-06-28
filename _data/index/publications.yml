@@ -1,3 +1,7 @@
+- name: "dm_control: Software and Tasks for Continuous Control"
+  authors: Yuval Tassa, Saran Tunyasuvunakool, Alistair Muldal, Yotam Doron, <strong>Siqi Liu</strong>, Steven Bohez, Josh Merel, Tom Erez, Timothy Lillicrap, Nicolas Heess
+  paper: https://arxiv.org/abs/2006.12983
+
 - name: "V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control"
   authors: H Francis Song, Abbas Abdolmaleki, Jost Tobias Springenberg, Aidan Clark, Hubert Soyer, Jack W Rae, Seb Noury, Arun Ahuja, <strong>Siqi Liu</strong>, Dhruva Tirumala, Nicolas Heess, Dan Belov, Martin Riedmiller, Matthew M Botvinick
   venue: ICLR 2020
