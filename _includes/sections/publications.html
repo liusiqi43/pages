@@ -5,7 +5,11 @@
       <p style="margin: 0"><strong>{{ p.name }}</strong></p>
       <p style="margin: 0">{{ p.authors }}</p>
 
+      {% if p.venue %}
+      <a href="{{ p.venue_link }} ">{{ p.venue }}</a>
+      {% endif %}
       {% if p.paper %}
+      <span> | </span>
       <a href="{{ p.paper }} ">paper</a>
       {% endif %}
       {% if p.venue %}
