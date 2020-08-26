@@ -1,6 +1,7 @@
 - name: "dm_control: Software and Tasks for Continuous Control"
   authors: Saran Tunyasuvunakool, Alistair Muldal, Yotam Doron, <strong>Siqi Liu</strong>, Steven Bohez, Josh Merel, Tom Erez, Timothy Lillicrap, Nicolas Heess, Yuval Tassa
   venue: Software Impacts - Journal
+  venue_link: https://www.journals.elsevier.com/software-impacts/
   paper: https://www.sciencedirect.com/science/article/pii/S2665963820300099
   code: https://github.com/deepmind/dm_control
 
