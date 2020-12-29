@@ -3,7 +3,7 @@ layout: post
 title: 【翻译】逐行解释BioNTech/Pfizer COVID疫苗的源代码
 category: posts
 comments: true
-visible: true
+visible: false
 ---
 
 [原文链接](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
