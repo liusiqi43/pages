@@ -1,3 +1,9 @@
+- name: "Pick Your Battles: Interaction Graphs as Population-Level Objectives for Strategic Diversity"
+  authors: Marta Garnelo, Wojciech Marian Czarnecki, <strong>Siqi Liu</strong>, Dhruva Tirumala, Junhyuk Oh, Gauthier Gidel, Hado van Hasselt, David Balduzzi
+  venue: AAMAS 2021
+  venue_link: https://aamas2021.soton.ac.uk/
+  paper: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1501.pdf
+
 - name: "dm_control: Software and Tasks for Continuous Control"
   authors: Saran Tunyasuvunakool, Alistair Muldal, Yotam Doron, <strong>Siqi Liu</strong>, Steven Bohez, Josh Merel, Tom Erez, Timothy Lillicrap, Nicolas Heess, Yuval Tassa
   venue: Journal
