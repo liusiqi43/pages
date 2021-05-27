@@ -1,3 +1,9 @@
+- name: "From Motor Control to Team Play in Simulated Humanoid Football [preprint]"
+  authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
+  paper: https://arxiv.org/abs/2105.12196
+  code: https://git.io/dm_soccer
+  video: https://youtu.be/KHMwq9pv7mg
+
 - name: "Pick Your Battles: Interaction Graphs as Population-Level Objectives for Strategic Diversity"
   authors: Marta Garnelo, Wojciech Marian Czarnecki, <strong>Siqi Liu</strong>, Dhruva Tirumala, Junhyuk Oh, Gauthier Gidel, Hado van Hasselt, David Balduzzi
   venue: AAMAS 2021
