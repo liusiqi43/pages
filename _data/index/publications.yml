@@ -3,7 +3,7 @@
   venue: ICLR 2022
   venue_link: https://iclr.cc/Conferences/2022
   paper: https://openreview.net/pdf?id=MIX3fJkl_1
-  demo: https://https://neupl.github.io/demo/
+  demo: https://neupl.github.io/demo/
 
 - name: "From Motor Control to Team Play in Simulated Humanoid Football [preprint]"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
