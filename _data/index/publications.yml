@@ -1,3 +1,9 @@
+- name: "Simplex Neural Population Learning: Any-Mixture Bayes-Optimality in Symmetric Zero-sum Games"
+  authors: <strong>Siqi Liu</strong>, Marc Lanctot, Luke Marris, Nicolas Heess
+  venue: ICML 2022
+  venue_link: https://icml.cc/Conferences/2022
+  paper: https://icml.cc/Conferences/2022/Schedule?showEvent=18416
+
 - name: "NeuPL: Neural Population Learning"
   authors: <strong>Siqi Liu</strong>, Luke Marris, Daniel Hennes, Josh Merel, Nicolas Heess, Thore Graepel
   venue: ICLR 2022
