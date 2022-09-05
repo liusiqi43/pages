@@ -18,6 +18,7 @@
   paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
   demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
   blog: https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence
+  code: https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/soccer
 
 - name: "Pick Your Battles: Interaction Graphs as Population-Level Objectives for Strategic Diversity"
   authors: Marta Garnelo, Wojciech Marian Czarnecki, <strong>Siqi Liu</strong>, Dhruva Tirumala, Junhyuk Oh, Gauthier Gidel, Hado van Hasselt, David Balduzzi
