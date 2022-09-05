@@ -13,7 +13,7 @@
 
 - name: "From Motor Control to Team Play in Simulated Humanoid Football"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
-  venue: Science Robotics | Aug 2022
+  venue: Science Robotics [Aug 2022]
   venue_link: https://www.science.org/toc/scirobotics/7/69
   paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
   demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
@@ -28,7 +28,7 @@
 
 - name: "dm_control: Software and Tasks for Continuous Control"
   authors: Saran Tunyasuvunakool, Alistair Muldal, Yotam Doron, <strong>Siqi Liu</strong>, Steven Bohez, Josh Merel, Tom Erez, Timothy Lillicrap, Nicolas Heess, Yuval Tassa
-  venue: Software Impacts | Nov 2020
+  venue: Software Impacts [Nov 2020]
   venue_link: https://www.softwareimpacts.com/issue/S2665-9638(20)X0004-2
   paper: https://www.sciencedirect.com/science/article/pii/S2665963820300099
   code: https://github.com/deepmind/dm_control
