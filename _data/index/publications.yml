@@ -11,11 +11,13 @@
   paper: https://openreview.net/pdf?id=MIX3fJkl_1
   demo: https://neupl.github.io/demo/
 
-- name: "From Motor Control to Team Play in Simulated Humanoid Football [preprint]"
+- name: "From Motor Control to Team Play in Simulated Humanoid Football"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
-  venue: arXiv
-  paper: https://arxiv.org/abs/2105.12196
-  demo: https://youtu.be/KHMwq9pv7mg
+  venue: Science Robotics
+  venue_link: https://www.science.org/toc/scirobotics/7/69
+  paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
+  demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
+  blog: https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence
 
 - name: "Pick Your Battles: Interaction Graphs as Population-Level Objectives for Strategic Diversity"
   authors: Marta Garnelo, Wojciech Marian Czarnecki, <strong>Siqi Liu</strong>, Dhruva Tirumala, Junhyuk Oh, Gauthier Gidel, Hado van Hasselt, David Balduzzi
