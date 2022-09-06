@@ -1,3 +1,12 @@
+- name: "From Motor Control to Team Play in Simulated Humanoid Football"
+  authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
+  venue: Science Robotics 2022
+  venue_link: https://www.science.org/toc/scirobotics/7/69
+  paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
+  demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
+  blog: https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence
+  code: https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/soccer
+
 - name: "Simplex NeuPL: Any-Mixture Bayes-Optimality in Symmetric Zero-sum Games"
   authors: <strong>Siqi Liu</strong>, Marc Lanctot, Luke Marris, Nicolas Heess
   venue: ICML 2022
@@ -10,15 +19,6 @@
   venue_link: https://iclr.cc/Conferences/2022
   paper: https://openreview.net/pdf?id=MIX3fJkl_1
   demo: https://neupl.github.io/demo/
-
-- name: "From Motor Control to Team Play in Simulated Humanoid Football"
-  authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
-  venue: Science Robotics 2022
-  venue_link: https://www.science.org/toc/scirobotics/7/69
-  paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
-  demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
-  blog: https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence
-  code: https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/soccer
 
 - name: "Pick Your Battles: Interaction Graphs as Population-Level Objectives for Strategic Diversity"
   authors: Marta Garnelo, Wojciech Marian Czarnecki, <strong>Siqi Liu</strong>, Dhruva Tirumala, Junhyuk Oh, Gauthier Gidel, Hado van Hasselt, David Balduzzi
