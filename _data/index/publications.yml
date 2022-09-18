@@ -1,3 +1,9 @@
+- name: "Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers"
+  authors: Luke Marris, Ian Gemp, Thomas Anthony, Andrea Tacchetti, <strong>Siqi Liu</strong>, Karl Tuyls
+  venue: NeurIPS 2022
+  venue_link: https://nips.cc/Conferences/2022
+  paper: https://openreview.net/forum?id=RczPtvlaXPH
+
 - name: "From Motor Control to Team Play in Simulated Humanoid Football"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
   venue: Science Robotics 2022
