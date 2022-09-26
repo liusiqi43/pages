@@ -8,7 +8,7 @@
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
   venue: Science Robotics 2022
   venue_link: https://www.science.org/toc/scirobotics/7/69
-  paper: https://www.science.org/doi/10.1126/scirobotics.abo0235
+  paper: https://www.science.org/stoken/author-tokens/ST-751/full
   demo: https://www.youtube.com/watch?v=tWnGTtbOK7I
   blog: https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence
   code: https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/soccer
