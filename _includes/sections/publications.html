@@ -12,10 +12,6 @@
       <span> | </span>
       <a href="{{ p.paper }} ">paper</a>
       {% endif %}
-      {% if p.oral %}
-      <span> | </span>
-      <a href="{{ p.oral }} ">oral</a>
-      {% endif %}
       {% if p.website %}
       <span> | </span>
       <a href="{{ p.website }} ">website</a>
@@ -31,6 +27,18 @@
       {% if p.code %}
       <span> | </span>
       <a href="{{ p.code }} ">code</a>
+      {% endif %}
+      {% if p.oral %}
+      <span> | </span>
+      <a href="{{ p.oral }} ">oral</a>
+      {% endif %}
+      {% if p.spotlight %}
+      <span> | </span>
+      <a href="{{ p.spotlight }} ">spotlight</a>
+      {% endif %}
+      {% if p.poster %}
+      <span> | </span>
+      <a href="{{ p.poster }} ">poster</a>
       {% endif %}
     </div>
 {% endfor %}
