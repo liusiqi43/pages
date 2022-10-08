@@ -4,6 +4,12 @@
   venue_link: https://nips.cc/Conferences/2022
   paper: https://openreview.net/forum?id=RczPtvlaXPH
 
+- name: "Developing, evaluating and scaling learning agents in multi-agent environments"
+  authors: Ian Gemp, Thomas Anthony, Yoram Bachrach, Avishkar Bhoopchand, Kalesha Bullard, Jerome Connor, Vibhavari Dasagi, Bart De Vylder, Edgar A Duéñez-Guzmán, Romuald Elie, Richard Everett, Daniel Hennes, Edward Hughes, Mina Khan, Marc Lanctot, Kate Larson, Guy Lever, <strong>Siqi Liu</strong>, Luke Marris, Kevin R McKee, Paul Muller, Julien Pérolat, Florian Strub, Andrea Tacchetti, Eugene Tarassov, Zhe Wang, Karl Tuyls
+  venue: AI Communications 2022
+  venue_link: https://content.iospress.com/journals/ai-communications/35/4
+  paper: https://arxiv.org/abs/2209.10958
+
 - name: "From Motor Control to Team Play in Simulated Humanoid Football"
   authors: <strong>Siqi Liu</strong>, Guy Lever, Zhe Wang, Josh Merel, S. M. Ali Eslami, Daniel Hennes, Wojciech M. Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Y. Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, H. Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan D. Tracey, Karl Tuyls, Thore Graepel, Nicolas Heess
   venue: Science Robotics 2022
