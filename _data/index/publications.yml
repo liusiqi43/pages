@@ -76,7 +76,7 @@
 
 - name: "dm_env: a Python interface for reinforcement learning environments"
   authors: Alistair Muldal, Yotam Doron, John Aslanides, Tim Harley, Tom Ward, <strong>Siqi Liu</strong>
-  venue: Github
+  venue: github 2019
   venue_link: https://github.com/deepmind
   code: https://github.com/deepmind/dm_env
 
