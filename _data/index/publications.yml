@@ -74,6 +74,11 @@
   paper: https://arxiv.org/abs/1811.09656
   demo: https://www.youtube.com/watch?v=7GISvfbykLE
 
+- name: "dm_env: a Python interface for reinforcement learning environments"
+  authors: Alistair Muldal, Yotam Doron, John Aslanides, Tim Harley, Tom Ward, <strong>Siqi Liu</strong>
+  venue: 2019
+  code: https://github.com/deepmind/dm_env
+
 - name: "Reinforcement Learning Agents acquire Flocking and Symbiotic Behaviour in Simulated Ecosystems"
   authors: Peter Sunehag, Guy Lever, <strong>Siqi Liu</strong>, Josh Merel, Nicolas Heess, Joel Z Leibo, Edward Hughes, Tom Eccles, Thore Graepel
   venue: ALIFE 2019
