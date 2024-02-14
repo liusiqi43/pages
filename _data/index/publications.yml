@@ -3,6 +3,7 @@
   venue: ICLR 2024
   venue_link: https://iclr.cc/Conferences/2024
   paper: https://openreview.net/forum?id=4YESQqIys7
+  code: https://github.com/google-deepmind/nfg_transformer
 
 - name: "Neural Population Learning beyond Symmetric Zero-sum Games"
   authors: <strong>Siqi Liu</strong>, Luke Marris, Marc Lanctot, Georgios Piliouras, Joel Z. Leibo, Nicolas Heess
