@@ -2,7 +2,7 @@
   authors: <strong>Siqi Liu*</strong>, Ian Gemp*, Luke Marris, Georgios Piliouras, Nicolas Heess, Marc Lanctot
   venue: ICLR 2025
   venue_link: https://iclr.cc/Conferences/2025
-  paper: https://openreview.net/pdf?id=kbOAIXKWgx
+  paper: https://arxiv.org/pdf/2502.20170
 
 - name: "NfgTransformer: Equivariant Representation Learning for Normal-form Games"
   authors: <strong>Siqi Liu</strong>, Luke Marris, Georgios Piliouras, Ian Gemp, Nicolas Heess
