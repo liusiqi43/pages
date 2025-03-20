@@ -6,7 +6,7 @@
 
 - name: "Deviation Ratings: A General, Clone-Invariant Rating Method"
   authors: Luke Marris, <strong>Siqi Liu</strong>, Ian Gemp, Georgios Piliouras, Marc Lanctot
-  venue: Games, Agents, and Incentives Workshop (AAMAS 2025)
+  venue: AAMAS Workshop 2025
   venue_link: https://preflib.github.io/gaiw2025/
   paper: https://arxiv.org/abs/2502.11645
 
